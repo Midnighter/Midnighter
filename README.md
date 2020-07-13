@@ -5,16 +5,18 @@ to provide deeper insights into your personal gut microbiome. That means, I want
 to predict how you can best **adjust your diet** to favour communities of
 bacteria that are **beneficial to your health**.
 
-As a bioinformatician, one of my guiding questions is, "How can I use my
+As a bioinformatician, one of my guiding questions is, _"How can I use my
 knowledge of biological research and software development for the good of
-humanity?"
+humanity?"_
 
-This question leads to the following topics that I am very passionate about:
+This question leads me to the following topics that I am very passionate about:
 
 * Thinking in systems, both biological networks and software architecture.
 * Designing automated solutions for and with human beings.
-* Access to and transparency of knowledge as embodied by, for example, the open
-  science movement or the open knowledge foundation.
+* Access to and transparency of knowledge as embodied by, for example, the [open
+  science movement](https://www.cos.io/) or the [Open Knowledge
+  Foundation](https://okfn.org/) and [Wikipedia](https://www.wikipedia.org/) to
+  name but a few.
 
 ## Contact
 
