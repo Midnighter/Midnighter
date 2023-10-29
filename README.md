@@ -1,10 +1,5 @@
 ## About Me
 
-I currently work at [Unseen Bio](https://unseenbio.com) where I build technology
-to provide deeper insights into your personal gut microbiome. That means, I want
-to predict how you can best **adjust your diet** to favour communities of
-bacteria that are **beneficial to your health**.
-
 As a bioinformatician, one of my guiding questions is, _"How can I use my
 knowledge of biological research and software development for the good of
 humanity?"_
